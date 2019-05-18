@@ -1,0 +1,6 @@
+import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+import scipy.sparse as scs # sparse matrix construction 
+import scipy.linalg as scl # linear algebra algorithms
+import scipy.optimize as sco # for minimization use
+import matplotlib.pylab as plt 
